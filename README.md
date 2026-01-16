@@ -1,7 +1,8 @@
 # HeartBeats (v0.1.0)
 
 A lightweight WPF HUD that displays live heart-rate data over Bluetooth LE. The app scans for devices broadcasting the standard Heart Rate service (0x180D), lets you pick one, and shows BPM plus a rolling chart.
-<img width="878" height="671" alt="image" src="https://github.com/user-attachments/assets/7811e7cf-68b1-4582-a8c4-1e0dc6461cf0" />
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/7811e7cf-68b1-4582-a8c4-1e0dc6461cf0" />
 
 ## Features
 - Automatic scan for BLE heart-rate devices; remembers the last device you chose.
